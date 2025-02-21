@@ -4,6 +4,8 @@ Angular CLI: 15.1.6
 Node: 18.20.6
 Package Manager: npm 10.8.2
 
+Run the following command to install bootstrap-> npm install bootstrap
+
 # RoasterManagementApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.3.
