@@ -15,5 +15,8 @@ echo "Installing typescript packages"
 
 npm install -D typescript @types/cors @types/express @types/node ts-node
 
+npm i -D tsx
+
+
 
 
